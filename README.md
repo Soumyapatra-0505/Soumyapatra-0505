@@ -1,3 +1,4 @@
+![logo](https://github.com/Soumyapatra-0505/Soumyapatra-0505/blob/main/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Soumya Ranjan Patra</h1>
 <h3 align="center">I am currently pursuing B.Tech CSE at ITER, SOA University.</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
