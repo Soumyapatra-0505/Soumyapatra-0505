@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Soumya Ranjan Patra</h1>
 <h3 align="center">I am currently pursuing B.Tech CSE at ITER, SOA University.</h3>
 
-<img align="right"alt="coding"width="400"src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
+<img align="right"alt="coding"width="400"src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw1Uw1w3FVtD3QDa8CTyTcb6&ust=1708185549690000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPCH1JedsIQDFQAAAAAdAAAAABAJ">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soumyapatra-0505&label=Profile%20views&color=0e75b6&style=flat" alt="soumyapatra-0505" /> </p>
 
