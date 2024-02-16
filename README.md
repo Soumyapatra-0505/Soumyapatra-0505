@@ -2,8 +2,7 @@
 <h3 align="center">I am currently pursuing B.Tech CSE at ITER, SOA University.</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<p align="left"> 
-<img src="https://komarev.com/ghpvc/?username=soumyapatra-0505&label=Profile%20views&color=0e75b6&style=flat" alt="soumyapatra-0505" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=soumyapatra-0505&label=Profile%20views&color=0e75b6&style=flat" alt="soumyapatra-0505" /> </p>
 
 - 🌱 I’m currently learning **Cloud Computing**
 
@@ -22,5 +21,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=soumyapatra-0505&show_icons=true&locale=en" alt="soumyapatra-0505" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=soumyapatra-0505&" alt="soumyapatra-0505" /><
-/p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=soumyapatra-0505&" alt="soumyapatra-0505" /></p>
