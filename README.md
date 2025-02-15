@@ -1,4 +1,4 @@
-![logo](https://github.com/Soumyapatra-0505/Soumyapatra-0505/blob/main/Yellow%20%26%20Black%20Simple%20Profile%20LinkedIn%20Banner.png)
+![logo](https://github.com/Soumyapatra-0505/Soumyapatra-0505/blob/main/Black%20Elegant%20Modern%20Personal%20LinkedIn%20Banner%20(1).png)
 <h1 align="center">Hi 👋, I'm Soumya Ranjan Patra</h1>
 <h3 align="center">I am currently pursuing B.Tech CSE at ITER, SOA University.</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
